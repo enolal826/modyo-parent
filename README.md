@@ -1,4 +1,4 @@
-### SOBRE EL BACK
+### SOBRE EL BACK (https://github.com/enolal826/modyo-back)
 He seguido un enfoque DDD para la distribución del código. Así mismo, he utilizado un concepto de arquitectura hexagonal, los "use cases", creando
 una clase para cada una de las acciones de la aplicaciones (este este caso, únicamente "listar Pokemon").
 
@@ -16,7 +16,7 @@ Aclaraciones:
 una tabla hash (mapa en Java) en memoria (por defecto)
 
 
-### SOBRE EL FRONT
+### SOBRE EL FRONT (https://github.com/enolal826/modyo-front)
 Una aplicación muy básica utilizando React y Redux que hace una petición para obtener la lista de Pokemon
 
 ### DEPLOYMENT
